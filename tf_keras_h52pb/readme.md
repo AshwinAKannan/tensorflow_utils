@@ -1,6 +1,6 @@
 This tool/script was used when the model had to be converted to .pb format for TF1.14 + CPP deployment code
 
-> the model was trained in Keras/TF2.0\n 
+> the model was trained in Keras/TF2.0\
 > TF-CPP build was version 1.14
 
 
